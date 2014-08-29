@@ -1,0 +1,16 @@
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\bin\Debug\eCP.Service.PluginInterface.dll
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\bin\Debug\eCP.Service.PluginInterface.pdb
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\bin\Debug\eCP.Service.PluginInterface.xml
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\obj\Debug\eCP.Service.PluginInterface.Resources.resources
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\obj\Debug\Host.Plugin.Interface.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\obj\Debug\eCP.Service.PluginInterface.dll
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\obj\Debug\eCP.Service.PluginInterface.xml
+D:\Short\Development\Others\MEF\eCP.Service.PluginInterface\obj\Debug\eCP.Service.PluginInterface.pdb
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\obj\Debug\Host.Plugin.Interface.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\bin\Debug\Host.Plugin.Interface.dll
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\bin\Debug\Host.Plugin.Interface.pdb
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\bin\Debug\Host.Plugin.Interface.xml
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\obj\Debug\Host.Plugin.Interface.Resources.resources
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\obj\Debug\Host.Plugin.Interface.dll
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\obj\Debug\Host.Plugin.Interface.xml
+D:\Short\Development\Others\MEF\Host.Service.PluginInterface\obj\Debug\Host.Plugin.Interface.pdb

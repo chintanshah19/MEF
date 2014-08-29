@@ -1,0 +1,15 @@
+D:\Short\Development\Others\MEF\eCP.SYX\obj\Debug\Host.Client2.vbprojResolveAssemblyReference.cache
+D:\Short\Development\Others\MEF\eCP.SYX\obj\Debug\eCP.SYX.Resources.resources
+D:\Short\Development\Others\MEF\eCP.SYX\obj\Debug\Host.Client2.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\eCP.SYX\obj\Debug\eCP.SYX.dll
+D:\Short\Development\Others\MEF\eCP.SYX\obj\Debug\eCP.SYX.xml
+D:\Short\Development\Others\MEF\eCP.SYX\obj\Debug\eCP.SYX.pdb
+D:\Short\Development\Others\MEF\Plugins\Host.Client2.dll
+D:\Short\Development\Others\MEF\Plugins\Host.Client2.pdb
+D:\Short\Development\Others\MEF\Plugins\Host.Client2.xml
+D:\Short\Development\Others\MEF\Host.Client2\obj\Debug\Host.Client2.vbprojResolveAssemblyReference.cache
+D:\Short\Development\Others\MEF\Host.Client2\obj\Debug\Host.Client2.Resources.resources
+D:\Short\Development\Others\MEF\Host.Client2\obj\Debug\Host.Client2.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\Host.Client2\obj\Debug\Host.Client2.dll
+D:\Short\Development\Others\MEF\Host.Client2\obj\Debug\Host.Client2.xml
+D:\Short\Development\Others\MEF\Host.Client2\obj\Debug\Host.Client2.pdb

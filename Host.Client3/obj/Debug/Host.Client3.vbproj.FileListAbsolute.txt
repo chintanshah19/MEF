@@ -1,0 +1,15 @@
+D:\Short\Development\Others\MEF\eCP.VDB\obj\Debug\Host.Client3.vbprojResolveAssemblyReference.cache
+D:\Short\Development\Others\MEF\eCP.VDB\obj\Debug\eCP.VDB.Resources.resources
+D:\Short\Development\Others\MEF\eCP.VDB\obj\Debug\Host.Client3.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\eCP.VDB\obj\Debug\eCP.VDB.dll
+D:\Short\Development\Others\MEF\eCP.VDB\obj\Debug\eCP.VDB.xml
+D:\Short\Development\Others\MEF\eCP.VDB\obj\Debug\eCP.VDB.pdb
+D:\Short\Development\Others\MEF\Plugins\Host.Client3.dll
+D:\Short\Development\Others\MEF\Plugins\Host.Client3.pdb
+D:\Short\Development\Others\MEF\Plugins\Host.Client3.xml
+D:\Short\Development\Others\MEF\Host.Client3\obj\Debug\Host.Client3.vbprojResolveAssemblyReference.cache
+D:\Short\Development\Others\MEF\Host.Client3\obj\Debug\Host.Client3.Resources.resources
+D:\Short\Development\Others\MEF\Host.Client3\obj\Debug\Host.Client3.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\Host.Client3\obj\Debug\Host.Client3.dll
+D:\Short\Development\Others\MEF\Host.Client3\obj\Debug\Host.Client3.xml
+D:\Short\Development\Others\MEF\Host.Client3\obj\Debug\Host.Client3.pdb

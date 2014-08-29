@@ -1,0 +1,15 @@
+D:\Short\Development\Others\MEF\eCP.FBZC\obj\Debug\Host.Client1.vbprojResolveAssemblyReference.cache
+D:\Short\Development\Others\MEF\eCP.FBZC\obj\Debug\eCP.FBZC.Resources.resources
+D:\Short\Development\Others\MEF\eCP.FBZC\obj\Debug\Host.Client1.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\eCP.FBZC\obj\Debug\eCP.FBZC.dll
+D:\Short\Development\Others\MEF\eCP.FBZC\obj\Debug\eCP.FBZC.xml
+D:\Short\Development\Others\MEF\eCP.FBZC\obj\Debug\eCP.FBZC.pdb
+D:\Short\Development\Others\MEF\Host.Client1\obj\Debug\Host.Client1.vbprojResolveAssemblyReference.cache
+D:\Short\Development\Others\MEF\Host.Client1\obj\Debug\Host.Client1.vbproj.GenerateResource.Cache
+D:\Short\Development\Others\MEF\Host.Client1\obj\Debug\Host.Client1.Resources.resources
+D:\Short\Development\Others\MEF\Plugins\Host.Client1.dll
+D:\Short\Development\Others\MEF\Plugins\Host.Client1.pdb
+D:\Short\Development\Others\MEF\Plugins\Host.Client1.xml
+D:\Short\Development\Others\MEF\Host.Client1\obj\Debug\Host.Client1.dll
+D:\Short\Development\Others\MEF\Host.Client1\obj\Debug\Host.Client1.xml
+D:\Short\Development\Others\MEF\Host.Client1\obj\Debug\Host.Client1.pdb
